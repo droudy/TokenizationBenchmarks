@@ -2,7 +2,7 @@
 Comparison of various supervised and unsupervised tokenization algorithms using sentiment analysis on a chinese corpus (ChnSentiCorp)
 
 ### Results
-On 5205 training examples and 579 testing examples (90/10 split) using regularized logistic regression 
+Regularized logistic regression trained on 5205 examples and tested on 579 examples (90/10 split) 
 
 |Tokenizer   | Accuracy|
 |------------|---------|
