@@ -15,3 +15,5 @@ Regularized logistic regression trained on 5205 examples and tested on 579 examp
 |Byte Pair Encoding|Aborted|86.70|**90.81**|90.81|
 |Char|53.36|48.46|48.98|47.35|
 |Word|85.18|85.73|84.59|Aborted|
+
+Aborted = `vocab_size` was either too small or too large for that particular model 
